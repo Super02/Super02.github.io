@@ -11,6 +11,8 @@ This extension is not secure at all in It's current state:
 
 If you have any questions regarding this extension or other of my projects please join my [Discord server](http://discord.super02.me).
 
+## Try it out here.
+Try it out: [http://scratchx.org/?url=https://super02.github.io/firebase.js] (http://scratchx.org/?url=https://super02.github.io/firebase.js)
 
 Thanks to [dnorhoj](https://dnorhoj.github.io/) for making this project.
 
