@@ -14,7 +14,7 @@ If you have any questions regarding this extension or other of my projects pleas
 ## Try it out here.
 Try it out: [http://scratchx.org/?url=https://super02.github.io/firebase.js](http://scratchx.org/?url=https://super02.github.io/firebase.js)
 
-Thanks to [dnorhoj](https://dnorhoj.github.io/) for making this project.
+# Thanks to [dnorhoj](https://dnorhoj.github.io/) for making this project.
 
 ### License
 ![WFTPL License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
