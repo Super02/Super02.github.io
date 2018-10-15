@@ -12,7 +12,7 @@ This extension is not secure at all in It's current state:
 If you have any questions regarding this extension or other of my projects please join my [Discord server](http://discord.super02.me).
 
 
-Thanks to [dnorhoj](https://dnorhoj.github.io/) for making this project to begin with.
+Thanks to [dnorhoj](https://dnorhoj.github.io/) for making this project.
 
 ### License
 ![WFTPL License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-1.png)
