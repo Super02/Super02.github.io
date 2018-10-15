@@ -6,4 +6,6 @@ The variable is avaliable to everyone to get and see. But in future updates vari
 
 If you have any questions regarding this extension or other of my projects please join my [Discord server](http://discord.super02.me).
 
+Dnorhoj is the coolest person on the planet!
+
 © Copyright Super02 2018 - 2018
