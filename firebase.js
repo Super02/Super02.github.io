@@ -43,7 +43,7 @@
 	};
 	ext.delete_var = function(name) {
 		if (name.length > 0){ // Empty names crashes firebase
-			fb.child('vars/' + name).set(null); // Set variable to value
+			fb.child('vars/' + name).remove(); // Set variable to value
 		}
 	};
 
