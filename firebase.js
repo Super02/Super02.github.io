@@ -41,6 +41,11 @@
 			fb.child('vars/' + name).set(value); // Set variable to value
 		}
 	};
+	ext.delete_var = function(name) {
+		if (name.length > 0){ // Empty names crashes firebase
+			fb.delete_var('vars/' + name); //Delete the variable
+		}
+	};
 
 	// Block and block menu descriptions
 	var descriptor = {
@@ -48,6 +53,7 @@
 			// Block type, block name, function name
 			['R', 'Get variable %s', 'get_var'],
 			[' ', 'Set variable %s to %s', 'set_var']
+			[' ', 'Delete variable %s', 'delete_var']
 		]
 	};
 
