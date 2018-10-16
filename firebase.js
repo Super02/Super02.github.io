@@ -62,7 +62,7 @@
 			// Block type, block name, function name
 			['R', 'Get variable %s', 'get_var'],
 			[' ', 'Set variable %s to %s', 'set_var'],
-			[' ', 'Delete variable %s', 'delete_var'],
+			[' ', 'Delete variable %s', 'delete_var']
 		]
 	};
 
